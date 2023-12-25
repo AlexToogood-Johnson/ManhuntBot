@@ -1,5 +1,4 @@
 #bot.py
-"""The code for the EMS Accommodation Manhunt Discord bot"""
 
 ############ IMPORTS ############
 
